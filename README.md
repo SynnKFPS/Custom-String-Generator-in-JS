@@ -10,5 +10,9 @@ Can be used on:<br>
 - Node.js Application (readline)
 - Any other stuff that uses Javascript
 
+## Installation and Execution with Node.JS
+`npm install chalk readline`<br>
+`node index.js`
+
 Made from scratch by Me<br>
 Feel free to use :D
