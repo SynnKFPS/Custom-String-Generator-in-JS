@@ -10,4 +10,4 @@
         return randomString;
       });
       resultArea.value = randomStrings.join("\n"); 
-// Specify result area with:     const resultArea = document.getElementById(**TEXTAREA TO SHOW THE RESULTS**);
+// Specify result area with:    const resultArea = document.getElementById(**TEXTAREA TO SHOW THE RESULTS**);
